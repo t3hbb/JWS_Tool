@@ -12,3 +12,5 @@ Once you start working with JWTs of a very short life span, it is difficult to r
 This extension allows you to identify when a session has become invalid and request a new token and use that for the remaining tests.
 
 This is not restricted to JWT or JWS and the code can serve as a basis for any header manipulation/addition/removal, body manipulation including fetching information from different websites to provide data for whichever bits you are manipulating.
+
+To use with Burp, just save the python file somewhere and add via the Extender tab.
