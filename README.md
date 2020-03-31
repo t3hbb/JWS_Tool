@@ -1,7 +1,7 @@
 # JWS_Tool
 Burp Extension to modify headers and maintain JWS validity
 
-Full information is available on my shells.sytems post here (ADDURL).
+Full information is available on my shells.sytems post here (https://shells.systems/adventures-in-burp-extender-land/).
 
 Recently I was testing a mobile application and it’s interaction with an API backend. It was the first time that I had come across an application that used two different JWT tokens in the headers to authorise against the API end point.
 
